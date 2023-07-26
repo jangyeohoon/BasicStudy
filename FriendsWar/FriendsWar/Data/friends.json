@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "name": "뽀로로",
+        "imageURL": "https://i.namu.wiki/i/URFP6zaTRivfSz_XxZZ8JOD8ZGapWCu9Hz4jd6vr2CxdBYJux7s2XYWBnj5l20WOqMHuaErwVfRejO9e1zrtcu8ioVdhY8M_xEI_pHCYy1VAdOftPG0Adok_d80ZH6wBONY7Buw3lfSq0_Q5OIReCXTpIBHu7drfdtUrWmRvm28.webp",
+        "description": "뽀롱뽀롱 뽀로로의 주인공",
+        "link": "https://namu.wiki/w/뽀로로"
+    },
+    {
+        "id": "2",
+        "name": "크롱",
+        "imageURL": "https://i.namu.wiki/i/URFP6zaTRivfSz_XxZZ8JF0NO6TDGgo3zxtjeyV1WgfQLKfigU23dcRNDl9BqvVcJMZtlhguMVfxd5OOpF9t7hivfEtBtrE4LKgrz00i3dSqHCVmLa9zJrYYzDCBoPpfj6t50IgOkOjSLyMyEJrpIk9QB1ox8nJkvgP6-yd42hs.webp",
+        "description": "애니메이션 뽀롱뽀롱 뽀로로의 서브 주인공이자 뽀로로와 같이 사는 아기 공룡.",
+        "link": "https://namu.wiki/w/크롱"
+    },
+    {
+        "id": "3",
+        "name": "에디",
+        "imageURL": "https://i.namu.wiki/i/URFP6zaTRivfSz_XxZZ8JJTYqdoCUOw0oP8efnSECTc6ZyRKjSbwKD8midEg2c1X1pN5TACh7Rn8YbZ2SWBYW8ln6bg40vTsnh2If2Z1aFZN7qksrn98ZJpB4orw-vxHAgEkg7omBOd6DnKPVc0kRjIYiVLCZV1GeQ8y_h0kIA4.webp",
+        "description": "척척박사",
+        "link": "https://namu.wiki/w/에디(뽀롱뽀롱%20뽀로로)"
+    },
+    {
+        "id": "4",
+        "name": "로디",
+        "imageURL": "https://i.namu.wiki/i/URFP6zaTRivfSz_XxZZ8JIi30PRQMcnINTrOFCxbiw8sprIbc5tynIvkleQMR8iUsr01L9n5o8w_1GYJfEwCq7I26I4Dz2lsta93RzPTujpglSRPtVWJk2Xq9cRDdPlK8aKOOb7YKniG8rATrVL7rybZpzpO7qZ7qRXFwewLGyg.webp",
+        "description": "에디가 만든 로봇 친구",
+        "link": "https://namu.wiki/w/로디(뽀롱뽀롱%20뽀로로)"
+    },
+    {
+        "id": "5",
+        "name": "루피",
+        "imageURL": "https://i.namu.wiki/i/URFP6zaTRivfSz_XxZZ8JAczTDj_UFCAPvY2GVgG03vwLTNzXmdPM6VjpENgluzAXurn3ixWVClQZ8x-jZEpf7AtB-mtwHBvMcr1fTINHBycoTZXeOgikhgky02JINmT2uAL6eTpSEHG_yiWa1H1cqgHAfNmFQX1kEsJsAsHrt0.webp",
+        "description": "잔망루피",
+        "link": "https://namu.wiki/w/루피(뽀롱뽀롱%20뽀로로)"
+    },
+    {
+        "id": "6",
+        "name": "패티",
+        "imageURL": "https://i.namu.wiki/i/URFP6zaTRivfSz_XxZZ8JHxv9lA2AI4joX1mUK9UWOuZjn4iJI5U9XiJ0AWZkBcHIMb5ra0VPDsKeaLQO5pv76XMgnNBfrSRm6uxcVrCYxO49oJj0G89KkpVcxpQIRpCPpKIXH-RFal_k7XZ2eNUw5e7nPNpw1SvtZQXd-4nv0s.webp",
+        "description": "얘도 팽귄",
+        "link": "https://namu.wiki/w/패티(뽀롱뽀롱%20뽀로로)"
+    },
+    {
+        "id": "7",
+        "name": "포비",
+        "imageURL": "https://i.namu.wiki/i/URFP6zaTRivfSz_XxZZ8JElqaL8XtYmt7HZlj6FHA6F5SHgYXLeOlem3WgAHkka2YdFzdcpiMKg9NyF5qsEQklhwd4_UPij3teFlu3yz29fSM5lK-Y2lGz4mGjyMoXJ41PrLT1GpP4uE6Jws6oZdCTe3y0EAGLY1fun990TqFZc.webp",
+        "description": "대인배",
+        "link": "https://namu.wiki/w/포비(뽀롱뽀롱%20뽀로로)"
+    },
+    {
+        "id": "8",
+        "name": "해리",
+        "imageURL": "https://i.namu.wiki/i/URFP6zaTRivfSz_XxZZ8JNkWrFxhMgfPq2xLBkgAq-Iy7NHf__ralyGjVkqQkoh8obU6jhmU69F1lBUMPuY-LCmQEIRmkFEUWe67A9KXzRiQmNpcsQOtE9zj27sFYcC7-p6q_CBDsn2JmneJdxERASpIkk-2Xmhubjpk2QSzm6A.webp",
+        "description": "포비의 잠을 방해하는 친구",
+        "link": "https://namu.wiki/w/해리(뽀롱뽀롱%20뽀로로)"
+    }
+]
